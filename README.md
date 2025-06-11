@@ -27,7 +27,7 @@ An intelligent stock recommendation platform built with **Streamlit** that helps
 
 * **Frontend & App Interface**: Streamlit
 * **Backend/Storage**: SQLite (for user authentication)
-* **Data Source**: [Yahoo Finance API](https://www.yfinance.info/)
+* **Data Source**: Yahoo Finance API
 * **Machine Learning**:
 
   * XGBoost Classifier
